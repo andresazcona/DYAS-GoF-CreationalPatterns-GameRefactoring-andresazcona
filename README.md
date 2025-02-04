@@ -1,6 +1,8 @@
 # SpaceWar: Juego de Naves Espaciales  
 **Diseño y Arquitectura de Software**  
 
+# Taller 1 - PARTE 2: Refactoring de Codigo Real
+
 ## Descripción del Proyecto  
 Este proyecto implementa un juego de naves espaciales utilizando el patrón de diseño **Fábrica Abstracta** y diferentes estrategias de renderización (vectorial, sprites, y renderizado colorido). El juego permite controlar una nave espacial que dispara balas y navega en un fondo dinámico, todo renderizado de acuerdo con el estilo seleccionado.  
 
