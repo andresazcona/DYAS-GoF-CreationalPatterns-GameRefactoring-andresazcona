@@ -1,5 +1,5 @@
 # Taller 1 - PARTE 2: Refactoring de Codigo Real
-**Diseño y Arquitectura de Software**  
+*Universidad de la Sabana - Diseño y Arquitectura de Software*
 
 # SpaceWar: Juego de Naves Espaciales  
 
